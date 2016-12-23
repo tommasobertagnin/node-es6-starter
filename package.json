@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "app": "node ./dist/bundle",
+    "start": "node ./dist/bundle",
     "build": "webpack --config webpack.config.js",
     "test": "mocha --compilers js:babel-register"
   },
