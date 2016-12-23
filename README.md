@@ -8,7 +8,7 @@ To run Webpack and build the app:
 `$ npm run build`
 
 Finally run the app:  
-`$ npm run app`
+`$ npm start`
 
 ### Usage of Eslint
 - *in /src/.eslintrc.js*: since in Node.js you need the console for debugging, there is a specific rule `"no-console": 0` to avoid being notified
